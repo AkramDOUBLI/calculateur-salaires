@@ -1,0 +1,19 @@
+# Fichiers de l'environnement Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnement virtuel
+.venv/
+env/
+
+# Fichiers de distribution
+dist/
+build/
+*.egg-info/
+*.spec
+
+# Autres fichiers à exclure
+*.log
+*.tmp
