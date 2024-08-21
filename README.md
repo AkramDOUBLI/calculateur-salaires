@@ -19,8 +19,8 @@ Cette application est un projet simple développé pour apprendre à utiliser le
 
 ### Écran Principal
 
-![Écran Principal](images/fenêtre principale.png)
+![Écran Principal](images/fenêtre_principale.jpg)
 
 ### Calcul des Différents Salaires
 
-![Calcul des Différents Salairese](images/resultat_salaire.png)
+![Calcul des Différents Salaire](images/resultat_salaire.jpg)
